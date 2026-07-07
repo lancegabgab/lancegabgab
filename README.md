@@ -6,6 +6,33 @@
 
 🌐 **Portfolio:** [Visit My Portfolio](https://lancegabgab.github.io/gab-portfolio/)
 
+## 🛠 Tech Stack
+
+### Frontend
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,jquery,ts,react,nextjs,angular,bootstrap,tailwind" />
+</p>
+
+### Backend
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,nodejs,express,php,laravel" />
+</p>
+
+### Database
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="48" height="48"/>
+</p>
+
+### DevOps & Cloud
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=docker,aws,linux" />
+</p>
+
 ## 🌟 Featured Projects
 
 ### ❤️ Tailmates
