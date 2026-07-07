@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-## About Me:
+## About Me
  I'm Lance Gabriel Cruz, a Full Stack Developer with a passion for creating dynamic web applications. 
  I have experience in both front-end and back-end development, and I am always eager to learn new technologies and improve my skills
 
@@ -8,22 +8,31 @@
 
 ### ❤️ Tailmates
 A dating app-inspired pet matching application where users can discover and match their pets.
+
 **Tech Stack:** ASP.NET Core Web API, Angular, SQL Server
+
 🔗 **Live Demo:** https://tailmates-kappa.vercel.app/
+
 📂 **Repository:** https://github.com/lancegabgab/tailmates-client
 
 ---
 ### 🐾 Furever Home
 A pet adoption platform built with ASP.NET Core MVC that enables animal shelters to showcase adoptable pets while providing users with an easy way to discover and adopt their future companions.
+
 **Tech Stack:** ASP.NET Core MVC, C#, SQL Server
+
 🔗 **Live Demo:** https://furever-home-8oo0.onrender.com/
+
 📂 **Repository:** https://github.com/lancegabgab/furever-home
 
 ---
 ### 🛍️ Pet Paradise
 An e-commerce web application that delivers a seamless shopping experience for pet owners while providing administrators with a centralized dashboard to manage products and the online store.
+
 **Tech Stack:** MongoDB, Express.js, React, Node.js
+
 🔗 **Live Demo:** https://pet-paradise-lancegabgabs-projects.vercel.app/
+
 📂 **Repository:** https://github.com/lancegabgab/pet-paradise
 
 ## 📫 Connect with Me
