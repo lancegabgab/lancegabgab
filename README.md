@@ -64,9 +64,19 @@ An e-commerce web application that delivers a seamless shopping experience for p
 
 📂 **Repository:** https://github.com/lancegabgab/pet-paradise
 
-## 📫 Connect with Me
-- **GitHub:** [@lancegabgab](https://github.com/lancegabgab)
-- **LinkedIn:** [Lance Gabriel Cruz](https://www.linkedin.com/in/lance-gabriel-cruz-2a8b26293)
-- **Facebook:** [Gabriel Lorenzo Cruz](https://www.facebook.com/lancegabriel.cruz.90)
-- **Instagram:** [@lanceeegab](https://www.instagram.com/lanceeegab/)
+## Socials
 
+<p align="left">
+  <a href="https://github.com/lancegabgab" target="_blank">
+    <img src="https://skillicons.dev/icons?i=github" width="45" />
+  </a>
+  <a href="https://www.linkedin.com/in/lance-gabriel-cruz-2a8b26293" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" width="45" />
+  </a>
+  <a href="https://www.facebook.com/lancegabriel.cruz.90" target="_blank">
+    <img src="https://cdn.simpleicons.org/facebook" width="45" />
+  </a>
+  <a href="https://www.instagram.com/lanceeegab/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=instagram" width="45" />
+  </a>
+</p>
