@@ -7,35 +7,50 @@
 🌐 **Portfolio:** [Visit My Portfolio](https://lancegabgab.github.io/gab-portfolio/)
 
 ## 🛠 Tech Stack
+<table align="center">
+  <tr align="center">
+    <td><img src="https://skillicons.dev/icons?i=html" alt="HTML" /><br>HTML</td>
+    <td><img src="https://skillicons.dev/icons?i=css" alt="CSS" /><br>CSS</td>
+    <td><img src="https://skillicons.dev/icons?i=js" alt="JavaScript" /><br>JavaScript</td>
+    <td><img src="https://skillicons.dev/icons?i=jquery" alt="jQuery" /><br>jQuery</td>
+    <td><img src="https://skillicons.dev/icons?i=ts" alt="TypeScript" /><br>TypeScript</td>
+    <td><img src="https://skillicons.dev/icons?i=react" alt="React" /><br>React</td>
+    <td><img src="https://skillicons.dev/icons?i=nextjs" alt="Next.js" /><br>Next.js</td>
+    <td><img src="https://skillicons.dev/icons?i=angular" alt="Angular" /><br>Angular</td>
+    <td><img src="https://skillicons.dev/icons?i=bootstrap" alt="Bootstrap" /><br>Bootstrap</td>
+  </tr>
 
-### Frontend
+  <tr align="center">
+    <td><img src="https://skillicons.dev/icons?i=tailwind" alt="Tailwind CSS" /><br>Tailwind CSS</td>
+    <td><img src="https://skillicons.dev/icons?i=cs" alt="C#" /><br>C#</td>
+    <td><img src="https://skillicons.dev/icons?i=dotnet" alt=".NET" /><br>ASP.NET Core</td>
+    <td><img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" /><br>Node.js</td>
+    <td><img src="https://skillicons.dev/icons?i=express" alt="Express.js" /><br>Express.js</td>
+    <td><img src="https://skillicons.dev/icons?i=php" alt="PHP" /><br>PHP</td>
+    <td><img src="https://skillicons.dev/icons?i=laravel" alt="Laravel" /><br>Laravel</td>
+    <td><img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" /><br>MySQL</td>
+    <td><img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" /><br>MongoDB</td>
+  </tr>
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,jquery,ts,react,nextjs,angular,bootstrap,tailwind" />
-</p>
-
-### Backend
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=cs,dotnet,nodejs,express,php,laravel" />
-</p>
-
-### Database
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=mysql,mongodb" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="48" height="48"/>
-</p>
-
-### DevOps & Cloud
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=docker,aws,linux" />
-</p>
+  <tr align="center">
+    <td>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="48" alt="SQL Server" />
+      <br>SQL Server
+    </td>
+    <td><img src="https://skillicons.dev/icons?i=docker" alt="Docker" /><br>Docker</td>
+    <td><img src="https://skillicons.dev/icons?i=aws" alt="AWS" /><br>AWS</td>
+    <td><img src="https://skillicons.dev/icons?i=linux" alt="Linux" /><br>Linux</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+</table>
 
 ## 🌟 Featured Projects
 
-### ❤️ Tailmates
+###  Tailmates
 A dating app-inspired pet matching application where users can discover and match their pets.
 
 **Tech Stack:** ASP.NET Core Web API, Angular, SQL Server
@@ -45,7 +60,7 @@ A dating app-inspired pet matching application where users can discover and matc
 📂 **Repository:** https://github.com/lancegabgab/tailmates-client
 
 ---
-### 🐾 Furever Home
+###  Furever Home
 A pet adoption platform built with ASP.NET Core MVC that enables animal shelters to showcase adoptable pets while providing users with an easy way to discover and adopt their future companions.
 
 **Tech Stack:** ASP.NET Core MVC, C#, SQL Server
@@ -55,7 +70,7 @@ A pet adoption platform built with ASP.NET Core MVC that enables animal shelters
 📂 **Repository:** https://github.com/lancegabgab/furever-home
 
 ---
-### 🛍️ Pet Paradise
+###  Pet Paradise
 An e-commerce web application that delivers a seamless shopping experience for pet owners while providing administrators with a centralized dashboard to manage products and the online store.
 
 **Tech Stack:** MongoDB, Express.js, React, Node.js
