@@ -38,10 +38,10 @@
       <br>SQL Server
     </td>
     <td><img src="https://skillicons.dev/icons?i=docker" alt="Docker" /><br>Docker</td>
-    <td><img src="https://skillicons.dev/icons?i=aws" alt="AWS" /><br>AWS</td>
+    <td><img src="https://skillicons.dev/icons?i=aws" alt="AWS" /><br>AWS EC2</td>
     <td><img src="https://skillicons.dev/icons?i=linux" alt="Linux" /><br>Linux</td>
-    <td></td>
-    <td></td>
+    <td><img src="https://cdn.simpleicons.org/render" width="48" alt="Render" /><br>Render</td>
+    <td><img src="https://skillicons.dev/icons?i=vercel" alt="Vercel" /><br>Vercel</td>
     <td></td>
     <td></td>
     <td></td>
