@@ -22,6 +22,7 @@
 
   <tr align="center">
     <td><img src="https://skillicons.dev/icons?i=tailwind" alt="Tailwind CSS" /><br>Tailwind CSS</td>
+    <td><img src="https://skillicons.dev/icons?i=sass" alt="Sass" /><br>Sass</td>
     <td><img src="https://skillicons.dev/icons?i=cs" alt="C#" /><br>C#</td>
     <td><img src="https://skillicons.dev/icons?i=dotnet" alt=".NET" /><br>ASP.NET Core</td>
     <td><img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" /><br>Node.js</td>
@@ -29,11 +30,10 @@
     <td><img src="https://skillicons.dev/icons?i=php" alt="PHP" /><br>PHP</td>
     <td><img src="https://skillicons.dev/icons?i=laravel" alt="Laravel" /><br>Laravel</td>
     <td><img src="https://skillicons.dev/icons?i=java" alt="Java" /><br>Java</td>
-    <td><img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" /><br>MySQL</td>
-   
   </tr>
 
   <tr align="center">
+    <td><img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" /><br>MySQL</td>
     <td><img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" /><br>MongoDB</td>
     <td>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="48" alt="SQL Server" />
@@ -44,7 +44,6 @@
     <td><img src="https://skillicons.dev/icons?i=linux" alt="Linux" /><br>Linux</td>
     <td><img src="https://cdn.simpleicons.org/render" width="48" alt="Render" /><br>Render</td>
     <td><img src="https://skillicons.dev/icons?i=vercel" alt="Vercel" /><br>Vercel</td>
-    <td></td>
     <td></td>
   </tr>
 </table>
