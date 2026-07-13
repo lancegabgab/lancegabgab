@@ -14,7 +14,7 @@
     <td><img src="https://skillicons.dev/icons?i=js" alt="JavaScript" /><br>JavaScript</td>
     <td><img src="https://skillicons.dev/icons?i=jquery" alt="jQuery" /><br>jQuery</td>
     <td><img src="https://skillicons.dev/icons?i=ts" alt="TypeScript" /><br>TypeScript</td>
-    <td><img src="https://skillicons.dev/icons?i=react" alt="React" /><br>React</td>
+    <td><img src="https://skillicons.dev/icons?i=react" alt="React.js" /><br>React.js</td>
     <td><img src="https://skillicons.dev/icons?i=nextjs" alt="Next.js" /><br>Next.js</td>
     <td><img src="https://skillicons.dev/icons?i=angular" alt="Angular" /><br>Angular</td>
     <td><img src="https://skillicons.dev/icons?i=bootstrap" alt="Bootstrap" /><br>Bootstrap</td>
