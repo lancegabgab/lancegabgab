@@ -33,6 +33,7 @@
   </tr>
 
   <tr align="center">
+    <td><img src="https://skillicons.dev/icons?i=python" alt="Python" /><br>Python</td>
     <td><img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" /><br>MySQL</td>
     <td><img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" /><br>MongoDB</td>
     <td>
@@ -44,7 +45,6 @@
     <td><img src="https://skillicons.dev/icons?i=linux" alt="Linux" /><br>Linux</td>
     <td><img src="https://cdn.simpleicons.org/render" width="48" alt="Render" /><br>Render</td>
     <td><img src="https://skillicons.dev/icons?i=vercel" alt="Vercel" /><br>Vercel</td>
-    <td></td>
   </tr>
 </table>
 
